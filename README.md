@@ -18,7 +18,7 @@ Here's a quick notes for this project
 * Project acted as end-to-end proof of concept for monitoring key metrics and leveraging data analytics to optimize business performance
 
   Screen Shots for the Dashboard
-* Home
+## Home
   ![alt text](https://github.com/Mohammedelmargane/Pizza_RevenueProject/blob/785f840eee1f34d78cbd6a44e885efc8a6dc696b/Images/Screenshot%202023-09-30%20195100.png)
-* Best/Worst Sellers
+## Best/Worst Sellers
   ![alt text](https://github.com/Mohammedelmargane/Pizza_RevenueProject/blob/785f840eee1f34d78cbd6a44e885efc8a6dc696b/Images/Screenshot%202023-09-30%20195633.png)
