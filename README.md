@@ -17,9 +17,11 @@ Here's a quick notes for this project
 * Demonstrated skill in finding patterns in data, drawing insights, and presenting them effectively to guide business strategy
 * Project acted as end-to-end proof of concept for monitoring key metrics and leveraging data analytics to optimize business performance
 
-Screen Shots for the Dashboard
+ScreenShots for the Dashboard
 
- ## Home  ![](https://raw.githubusercontent.com/Mohammedelmargane/Mohamed-s_Portfolio/main/Images/Screenshot%202023-09-30%20195100.png)
+ ## Home 
+ ![](https://raw.githubusercontent.com/Mohammedelmargane/Mohamed-s_Portfolio/main/Images/Screenshot%202023-09-30%20195100.png)
   
- ## Best/Worst Sellers ![alt text](https://github.com/Mohammedelmargane/Mohamed-s_Portfolio/blob/1950dea65750b54339143ccd4a24e500b83ca031/Images/Screenshot%202023-09-30%20195633.png)
+ ## Best/Worst Sellers
+ ![alt text](https://github.com/Mohammedelmargane/Mohamed-s_Portfolio/blob/1950dea65750b54339143ccd4a24e500b83ca031/Images/Screenshot%202023-09-30%20195633.png)
   
