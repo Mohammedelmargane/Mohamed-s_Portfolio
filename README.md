@@ -19,7 +19,7 @@ Here's a quick notes for this project
 
 Screen Shots for the Dashboard
 
-  ![alt text](https://github.com/Mohammedelmargane/Mohamed-s_Portfolio/blob/1950dea65750b54339143ccd4a24e500b83ca031/Images/Screenshot%202023-09-30%20195100.png)
+ ## Home  ![alt text](https://github.com/Mohammedelmargane/Mohamed-s_Portfolio/blob/1950dea65750b54339143ccd4a24e500b83ca031/Images/Screenshot%202023-09-30%20195100.png)
   
  ![alt text](https://github.com/Mohammedelmargane/Mohamed-s_Portfolio/blob/1950dea65750b54339143ccd4a24e500b83ca031/Images/Screenshot%202023-09-30%20195633.png)
   
