@@ -4,7 +4,9 @@ Analytics Portfolio
 # [Project 1: Pizza Revenue Dashboard](https://github.com/Mohammedelmargane/Pizza_RevenueProject)
 
 This is a Learning project i made the data is publicly avaliable and i tryied my best to make this Dashboard 
+
 Here's a quick notes for this project
+
 * Performed in-depth analysis of pizza sales data using SQL queries to calculate business metrics like revenue, average order value, and item popularity
 * Uncovered insights into best and worst selling menu items, guiding decisions to optimize offerings
 * Created interactive Power BI dashboards visualizing key trends and patterns in the data, enabling exploratory analysis
