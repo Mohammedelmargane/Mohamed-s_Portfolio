@@ -21,4 +21,4 @@ Here's a quick notes for this project
 ## Home
   ![alt text](https://github.com/Mohammedelmargane/Pizza_RevenueProject/blob/785f840eee1f34d78cbd6a44e885efc8a6dc696b/Images/Screenshot%202023-09-30%20195100.png)
 ## Best/Worst Sellers
-  ![alt text](https://github.com/Mohammedelmargane/Pizza_RevenueProject/blob/785f840eee1f34d78cbd6a44e885efc8a6dc696b/Images/Screenshot%202023-09-30%20195633.png)
+  ![](https://github.com/Mohammedelmargane/Pizza_RevenueProject/blob/785f840eee1f34d78cbd6a44e885efc8a6dc696b/Images/Screenshot%202023-09-30%20195633.png)
