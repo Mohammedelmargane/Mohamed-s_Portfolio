@@ -17,7 +17,7 @@ Here's a quick notes for this project
 * Demonstrated skill in finding patterns in data, drawing insights, and presenting them effectively to guide business strategy
 * Project acted as end-to-end proof of concept for monitoring key metrics and leveraging data analytics to optimize business performance
 
-ScreenShots for the Dashboard
+Screenshots for the Dashboard
 
 **Home** 
  
