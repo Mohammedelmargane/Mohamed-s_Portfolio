@@ -19,11 +19,11 @@ Here's a quick notes for this project
 
 ScreenShots for the Dashboard
 
-Home 
+**Home** 
  
  ![](https://raw.githubusercontent.com/Mohammedelmargane/Mohamed-s_Portfolio/main/Images/Screenshot%202023-09-30%20195100.png)
   
-Best/Worst Sellers
+**Best/Worst Sellers**
 
  ![alt text](https://raw.githubusercontent.com/Mohammedelmargane/Mohamed-s_Portfolio/main/Images/Screenshot%202023-09-30%20195633.png)
   
