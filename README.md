@@ -67,8 +67,5 @@ Quick notes highlighting your Supermarket Sales Report:
 * Demonstrated value of data visualization in extracting and presenting insights
 * Developed framework for ongoing sales analytics to guide strategy month-over-month
 
-![Total-Sales-by-day-of-week](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/1.png)
+![Executive-Summary](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/Screenshot%202023-10-01%20091406.png)
 
-![Median-sales](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/2.png)
-
-![Total-Sales-by-time-of-day](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/3.png)
