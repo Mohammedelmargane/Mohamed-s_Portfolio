@@ -27,3 +27,25 @@ Screenshots for the Dashboard
 
  ![alt text](https://raw.githubusercontent.com/Mohammedelmargane/Mohamed-s_Portfolio/main/Images/Screenshot%202023-09-30%20195633.png)
   
+
+# [Project 2: Hotel Revenue Dashboard](https://github.com/Mohammedelmargane/Hotel_RevenueProject)
+
+
+Quick notes highlighting the Hotel Revenue Dashboard project:
+
+* Built interactive Power BI dashboard visualizing key hotel revenue and booking metrics
+* Sourced data from multiple hotels over 3 years, aggregating into unified view
+* Key visuals: revenue over time, revenue by hotel, average daily rate, total nights booked, discount %
+* Enabled slicing data by date, hotel, country for deeper insights
+* Delivered full overview of hotel performance in single dashboard
+* Identified trends and outliers to guide pricing and revenue decisions
+* Unified disparate data sources into cohesive interactive reporting tool
+* Applied data visualization best practices for effective metric monitoring
+* Showcased ability to transform raw data into impactful business insights
+* Provided interactive view to analyze hotel revenue from multiple angles
+* Drove data-based decision making on pricing, discounts, promotions
+
+Screenshots for the Dashboard
+
+![Hotel-Revenue](https://raw.githubusercontent.com/Mohammedelmargane/Hotel_RevenueProject/main/Images/Screenshot%202023-10-01%20085528.png)
+
