@@ -49,3 +49,26 @@ Screenshots for the Dashboard
 
 ![Hotel-Revenue](https://raw.githubusercontent.com/Mohammedelmargane/Hotel_RevenueProject/main/Images/Screenshot%202023-10-01%20085528.png)
 
+
+
+# [Project 3: Supermarket Report](https://github.com/Mohammedelmargane/SuperMarket_Report/tree/main)
+
+Quick notes highlighting your Supermarket Sales Report:
+
+* Analyzed 3 months of supermarket transaction data to uncover optimization opportunities
+* Created insightful presentation with charts/tables visualizing key trends and metrics
+* Delivered actionable insights on marketing budget allocation, pricing adjustments, inventory planning
+* Quantified sales performance by product, date, time, location, and customer segment
+* Identified highest and lowest performing categories to inform product assortment decisions
+* Compared metrics to overall medians to reveal outliers and areas for improvement
+* Formatted analysis into visually appealing report following best practices for easy consumption
+* Enabled data-driven decision making on promotions, pricing, and operations
+* Showcased ability to transform raw transaction data into impactful business intelligence
+* Demonstrated value of data visualization in extracting and presenting insights
+* Developed framework for ongoing sales analytics to guide strategy month-over-month
+
+![Total-Sales-by-day-of-week](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/1.png)
+
+![Median-sales](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/2.png)
+
+![Total-Sales-by-time-of-day](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/3.png)
