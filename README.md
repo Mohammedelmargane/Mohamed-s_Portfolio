@@ -31,7 +31,7 @@ Screenshots for the Dashboard
 # [Project 2: Hotel Revenue Dashboard](https://github.com/Mohammedelmargane/Hotel_RevenueProject)
 
 
-Quick notes highlighting the Hotel Revenue Dashboard project:
+Quick notes highlighting the Dashboard :
 
 * Built interactive Power BI dashboard visualizing key hotel revenue and booking metrics
 * Sourced data from multiple hotels over 3 years, aggregating into unified view
@@ -53,7 +53,7 @@ Screenshots for the Dashboard
 
 # [Project 3: Supermarket Report](https://github.com/Mohammedelmargane/SuperMarket_Report/tree/main)
 
-Quick notes highlighting your Supermarket Sales Report:
+Quick notes highlighting the Report:
 
 * Analyzed 3 months of supermarket transaction data to uncover optimization opportunities
 * Created insightful presentation with charts/tables visualizing key trends and metrics
