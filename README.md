@@ -1,6 +1,10 @@
+<!DOCTYPE>
+<html>
+ <head> 
 # Mohamed-s_Portfolio
-Analytics Portfolio
-
+<title>My Analytics Portfolio</title>
+</head>
+ <body>
 # [Project 1: Pizza Revenue Dashboard](https://github.com/Mohammedelmargane/Pizza_RevenueProject)
 
 This is a Learning project i made the data is publicly avaliable and i tryied my best to make this Dashboard 
@@ -68,4 +72,5 @@ Quick notes highlighting the Report:
 * Developed framework for ongoing sales analytics to guide strategy month-over-month
 
 ![Executive-Summary](https://raw.githubusercontent.com/Mohammedelmargane/SuperMarket_Report/main/Images/Screenshot%202023-10-01%20091406.png)
-
+</body>
+</html>
