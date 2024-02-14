@@ -1,8 +1,6 @@
-<!DOCTYPE html>
- <head> 
 # Mohamed-s_Portfolio
-<title>My Analytics Portfolio</title>
-</head>
+My Analytics Portfolio
+
 # [Project 1: Pizza Revenue Dashboard](https://github.com/Mohammedelmargane/Pizza_RevenueProject)
 
 This is a Learning project i made the data is publicly avaliable and i tryied my best to make this Dashboard 
